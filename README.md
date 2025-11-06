@@ -1,3 +1,5 @@
+![Logo](/assets/GHOST.png)
+
 # Server Status
 
 ## **Windows Server**
