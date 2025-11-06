@@ -1,7 +1,4 @@
-<div style="width: fit-content; display: flex; justify-items: center; align-items: center;">
-  <img alt="Ghost" src='./assets/GHOST.png'/>
-</div>
-
+![Logo](/assets/GHOST.png)
 
 # Server Status
 
