@@ -1,4 +1,4 @@
-<div style="width: 100%; display: flex; justify-items: center;">
+<div style="width: 100%; display: flex; justify-items: center; align-items: center;">
   <img alt="Ghost" src='./assets/GHOST.png'/>
 </div>
 
